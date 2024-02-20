@@ -249,5 +249,4 @@ tracks:
     ros_distro: rolling
     vcs_type: git
     vcs_uri: https://github.com/astuff/astuff_sensor_msgs.git
-    version: 4.0.0
-    version_saved: :{auto}
+    version: :{auto}
